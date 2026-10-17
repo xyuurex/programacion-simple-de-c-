@@ -1,0 +1,6 @@
+﻿Compilación iniciada a las 3:15 p. m....
+1>------ Operación Compilar iniciada: Proyecto: 02_tienda_descuento.cpp, configuración: Debug x64 ------
+1>  02_tienda_descuento.cpp.cpp
+1>  02_tienda_descuento.cpp.vcxproj -> C:\Users\marco\source\repos\02_tienda_descuento.cpp\x64\Debug\02_tienda_descuento.cpp.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 3:15 p. m. y tardó 01.848 segundos ==========

@@ -1,0 +1,6 @@
+﻿Compilación iniciada a las 4:23 p. m....
+1>------ Operación Compilar iniciada: Proyecto: 05 semaforo, configuración: Debug x64 ------
+1>  05 semaforo.cpp
+1>  05 semaforo.vcxproj -> C:\Users\marco\source\repos\05 semaforo\x64\Debug\05 semaforo.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 4:23 p. m. y tardó 01.431 segundos ==========

@@ -1,0 +1,6 @@
+﻿Compilación iniciada a las 4:21 p. m....
+1>------ Operación Compilar iniciada: Proyecto: 04 mayor de tres, configuración: Debug x64 ------
+1>  04 mayor de tres.cpp
+1>  04 mayor de tres.vcxproj -> C:\Users\marco\source\repos\04 mayor de tres\x64\Debug\04 mayor de tres.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 4:21 p. m. y tardó 02.453 segundos ==========
